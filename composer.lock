@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "ad590b3a359c0e4134fe20bd53a8a2e1",
+    "packages": [
+        {
+            "name": "kalaomer/ider",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kalaomer/ider.git",
+                "reference": "e24eaf43c1012619b953b33cffbb53a9ca813634"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kalaomer/ider/zipball/e24eaf43c1012619b953b33cffbb53a9ca813634",
+                "reference": "e24eaf43c1012619b953b33cffbb53a9ca813634",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Ider": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ömer Kala",
+                    "email": "kalaomer@hotmail.com"
+                }
+            ],
+            "description": "Get unique value for everthing.",
+            "time": "2014-01-24 22:37:16"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "kalaomer/simplevent",
+    "description": "Simple PHP Event System",
+    "keywords": [ "Events", "System" ],
+    "license": "MIT",
+    "version": "1.0.0",
+    "homepage": "https:/github.com/kalaomer/simplevent",
+    "require" : {
+        "php"          : ">=5.4.0",
+        "kalaomer/ider": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Ömer Kala",
+            "email": "kalaomer@hotmail.com"
+        }
+    ],
+    "require": {
+        "kalaomer/ider": "1.0.0"
+    },
+    "autoload": {
+        
+        "psr-0": {
+            "Simplevent": "src/"
+        }
+    }
+}
